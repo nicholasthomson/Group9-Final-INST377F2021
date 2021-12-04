@@ -16,3 +16,24 @@ body {
 tr {
     background-color: #1f5a50;
 }
+
+
+
+img{
+    width: 60px;
+    height: auto;
+    padding: 10px 10px 10px 10px;
+    background-color: #1f5a50;
+  }
+
+.title{
+  display: flex;
+  align-items: center;
+  background-color: #1f5a50;
+  padding: 10px 10px 10px 10px;
+}
+
+#website{
+  color:#66FCF1;
+  background-color: #1f5a50;
+}
