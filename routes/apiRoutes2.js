@@ -138,7 +138,6 @@ router.route('/performers')
     }
     });
   
-  ////NICK THOMSON/////
   router.route('/songs')
   .get((rec, res) => {
     try {
